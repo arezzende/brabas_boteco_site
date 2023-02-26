@@ -1,0 +1,32 @@
+
+body {
+    font: 20px Arial, sams-serif;
+}
+
+.navbar {
+    background-color: #d11c1c;
+}
+
+.Brabas-Boteco {
+    background-color: rgb(248, 244, 0);
+    color: #000000;
+}
+
+.margin {
+    padding-bottom: 50px ;
+    padding-top: 10px;
+}
+
+.cardápio {
+    background-color: #000000;
+    color: white;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+}
+
+.btnCustom {
+    margin: 10px;
+}
