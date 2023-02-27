@@ -1,2 +1,2 @@
 # Site do brabas boteco
-## O melhor bar lgbtqia+ do centro de curitiba                  
+## O melhor bar LGBTQIA+ do centro de curitiba                  
